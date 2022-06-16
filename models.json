@@ -1,5 +1,132 @@
 {
-    "1654991921200": {
+    "1342695926183": {
+        "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.card1 { background-color: #ffffff; }\n.card2 { background-color: #ffffff; }",
+        "did": 1342695926336,
+        "flds": [
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Expression",
+                "ord": 0,
+                "rtl": false,
+                "size": 12,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Meaning",
+                "ord": 1,
+                "rtl": false,
+                "size": 12,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Reading",
+                "ord": 2,
+                "rtl": false,
+                "size": 12,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Audio",
+                "ord": 3,
+                "rtl": false,
+                "size": 12,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Image_URI",
+                "ord": 4,
+                "rtl": false,
+                "size": 12,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "iKnowID",
+                "ord": 5,
+                "rtl": false,
+                "size": 12,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "iKnowType",
+                "ord": 6,
+                "rtl": false,
+                "size": 12,
+                "sticky": false
+            }
+        ],
+        "id": 1342695926183,
+        "latexPost": "\\end{document}",
+        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1385971412,
+        "name": "iKnow! Sentences",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    3
+                ]
+            ],
+            [
+                1,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tags": [],
+        "tmpls": [
+            {
+                "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<span style=\"font-family: Liberation Sans; font-size: 40px;  \">{{Expression}}<br>{{Reading}}<br>{{Meaning}}<br>{{Image_URI}}</span>",
+                "bafmt": "",
+                "bfont": "",
+                "bqfmt": "",
+                "bsize": 0,
+                "did": null,
+                "name": "Listening",
+                "ord": 0,
+                "qfmt": "<span style=\"font-family: Liberation Sans; font-size: 40px;  \">Listen.{{Audio}}</span>"
+            },
+            {
+                "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<span style=\"font-family: Liberation Sans; font-size: 40px;  \">{{Reading}}<br>{{Meaning}}<br>{{Image_URI}}<br>{{Audio}}</span>",
+                "bafmt": "",
+                "bfont": "",
+                "bqfmt": "",
+                "bsize": 0,
+                "did": null,
+                "name": "Reading",
+                "ord": 1,
+                "qfmt": "<span style=\"font-family: Liberation Sans; font-size: 40px;  \">{{Expression}}</span>"
+            }
+        ],
+        "type": 0,
+        "usn": -1,
+        "vers": []
+    },
+    "1342695926185": {
         "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.card1 { background-color: #ffffff; }\n.card2 { background-color: #ffffff; }\n.card3 { background-color: #ffffff; }",
         "did": 1342695926336,
         "flds": [
@@ -74,11 +201,11 @@
                 "sticky": false
             }
         ],
-        "id": 1654991921200,
+        "id": 1342695926185,
         "latexPost": "\\end{document}",
         "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
         "latexsvg": false,
-        "mod": 1654991921,
+        "mod": 1385971412,
         "name": "iKnow! Vocabulary",
         "req": [
             [
