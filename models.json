@@ -1,5 +1,5 @@
 {
-    "1654991921200": {
+    "1342695926185": {
         "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.card1 { background-color: #ffffff; }\n.card2 { background-color: #ffffff; }\n.card3 { background-color: #ffffff; }",
         "did": 1342695926336,
         "flds": [
@@ -74,11 +74,11 @@
                 "sticky": false
             }
         ],
-        "id": 1654991921200,
+        "id": 1342695926185,
         "latexPost": "\\end{document}",
         "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
         "latexsvg": false,
-        "mod": 1654991921,
+        "mod": 1385971412,
         "name": "iKnow! Vocabulary",
         "req": [
             [
